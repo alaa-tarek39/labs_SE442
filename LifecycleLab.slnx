@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Lab1/">
+    <File Path="FINDINGS.md" />
+    <Project Path="LifecycleLab.csproj">
+      <Deploy Solution="Debug|*" />
+    </Project>
+  </Folder>
+</Solution>
